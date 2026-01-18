@@ -69,6 +69,8 @@
 * [x] Meta Tags برای PWA.
 * [x] API Service Layer (آماده برای Backend).
 
+
+
 ### ۸. مستندات و نهایی‌سازی (Documentation & Polish) ✅
 
 * [x] README.md - مقدمه و نمای کلی.
